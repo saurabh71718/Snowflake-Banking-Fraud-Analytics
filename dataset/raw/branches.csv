@@ -1,0 +1,51 @@
+branch_id,bank_name,branch_name,branch_type,country,country_code,city,region,currency,timezone,swift_code,branch_manager,opening_date
+BR000001,Nova Global Bank,Toronto Branch,Digital,Canada,CA,Toronto,North America,CAD,America/Toronto,NGBLCAXX,Allison Hill,2012-05-03
+BR000002,Nova Global Bank,Berlin Branch,Retail,Germany,DE,Berlin,Europe,EUR,Europe/Berlin,NGBLDEXX,Noah Rhodes,2004-08-06
+BR000003,Nova Global Bank,Dubai Branch,Digital,United Arab Emirates,AE,Dubai,Middle East,AED,Asia/Dubai,NGBLAEXX,Angie Henderson,2018-12-04
+BR000004,Nova Global Bank,New York Branch,Retail,United States,US,New York,North America,USD,America/New_York,NGBLUSXX,Daniel Wagner,2009-10-22
+BR000005,Nova Global Bank,Frankfurt Branch,Digital,Germany,DE,Frankfurt,Europe,EUR,Europe/Berlin,NGBLDEXX,Cristian Santos,2001-03-10
+BR000006,Nova Global Bank,Dubai Branch,Digital,United Arab Emirates,AE,Dubai,Middle East,AED,Asia/Dubai,NGBLAEXX,Connie Lawrence,2024-06-11
+BR000007,Nova Global Bank,Sydney Branch,Corporate,Australia,AU,Sydney,APAC,AUD,Australia/Sydney,NGBLAUXX,Abigail Shaffer,2026-06-07
+BR000008,Nova Global Bank,Paris Branch,Retail,France,FR,Paris,Europe,EUR,Europe/Paris,NGBLFRXX,Gina Moore,2018-12-16
+BR000009,Nova Global Bank,Singapore Branch,Retail,Singapore,SG,Singapore,APAC,SGD,Asia/Singapore,NGBLSGXX,Gabrielle Davis,2009-08-28
+BR000010,Nova Global Bank,Singapore Branch,Retail,Singapore,SG,Singapore,APAC,SGD,Asia/Singapore,NGBLSGXX,Ryan Munoz,2017-01-15
+BR000011,Nova Global Bank,Vancouver Branch,Corporate,Canada,CA,Vancouver,North America,CAD,America/Toronto,NGBLCAXX,Monica Herrera,2011-11-12
+BR000012,Nova Global Bank,Dallas Branch,Digital,United States,US,Dallas,North America,USD,America/New_York,NGBLUSXX,Jamie Arnold,2005-08-07
+BR000013,Nova Global Bank,Sydney Branch,Digital,Australia,AU,Sydney,APAC,AUD,Australia/Sydney,NGBLAUXX,Lisa Hensley,2013-02-24
+BR000014,Nova Global Bank,Geneva Branch,Digital,Switzerland,CH,Geneva,Europe,CHF,Europe/Zurich,NGBLCHXX,Michele Williams,2008-08-16
+BR000015,Nova Global Bank,Toronto Branch,Digital,Canada,CA,Toronto,North America,CAD,America/Toronto,NGBLCAXX,Dylan Miller,2010-03-22
+BR000016,Nova Global Bank,Paris Branch,Retail,France,FR,Paris,Europe,EUR,Europe/Paris,NGBLFRXX,Brian Ramirez,2004-07-12
+BR000017,Nova Global Bank,Melbourne Branch,Corporate,Australia,AU,Melbourne,APAC,AUD,Australia/Sydney,NGBLAUXX,Holly Wood,2016-05-13
+BR000018,Nova Global Bank,Manchester Branch,Corporate,United Kingdom,GB,Manchester,Europe,GBP,Europe/London,NGBLGBXX,Derek Zuniga,2009-05-25
+BR000019,Nova Global Bank,Marseille Branch,Digital,France,FR,Marseille,Europe,EUR,Europe/Paris,NGBLFRXX,Lisa Jackson,2003-03-15
+BR000020,Nova Global Bank,Zurich Branch,Digital,Switzerland,CH,Zurich,Europe,CHF,Europe/Zurich,NGBLCHXX,Carla Gray,2010-12-24
+BR000021,Nova Global Bank,Manchester Branch,Corporate,United Kingdom,GB,Manchester,Europe,GBP,Europe/London,NGBLGBXX,Margaret Hawkins DDS,2012-02-09
+BR000022,Nova Global Bank,Dubai Branch,Digital,United Arab Emirates,AE,Dubai,Middle East,AED,Asia/Dubai,NGBLAEXX,Patty Perez,2014-07-19
+BR000023,Nova Global Bank,Chicago Branch,Retail,United States,US,Chicago,North America,USD,America/New_York,NGBLUSXX,Ethan Adams,2014-02-24
+BR000024,Nova Global Bank,Melbourne Branch,Retail,Australia,AU,Melbourne,APAC,AUD,Australia/Sydney,NGBLAUXX,Tommy Walter,2009-06-18
+BR000025,Nova Global Bank,Geneva Branch,Retail,Switzerland,CH,Geneva,Europe,CHF,Europe/Zurich,NGBLCHXX,Matthew Foster,2022-05-24
+BR000026,Nova Global Bank,Brisbane Branch,Corporate,Australia,AU,Brisbane,APAC,AUD,Australia/Sydney,NGBLAUXX,Judy Baker,2006-05-29
+BR000027,Nova Global Bank,Paris Branch,Retail,France,FR,Paris,Europe,EUR,Europe/Paris,NGBLFRXX,Justin Baker,2025-03-07
+BR000028,Nova Global Bank,Abu Dhabi Branch,Digital,United Arab Emirates,AE,Abu Dhabi,Middle East,AED,Asia/Dubai,NGBLAEXX,Stephanie Ross,2026-03-22
+BR000029,Nova Global Bank,Brisbane Branch,Corporate,Australia,AU,Brisbane,APAC,AUD,Australia/Sydney,NGBLAUXX,Zachary Hicks,2016-03-27
+BR000030,Nova Global Bank,Berlin Branch,Digital,Germany,DE,Berlin,Europe,EUR,Europe/Berlin,NGBLDEXX,Anthony Rodriguez,2022-02-19
+BR000031,Nova Global Bank,Toronto Branch,Retail,Canada,CA,Toronto,North America,CAD,America/Toronto,NGBLCAXX,Rebecca Henderson,2006-11-09
+BR000032,Nova Global Bank,Birmingham Branch,Corporate,United Kingdom,GB,Birmingham,Europe,GBP,Europe/London,NGBLGBXX,James Ferrell,2002-11-06
+BR000033,Nova Global Bank,Melbourne Branch,Digital,Australia,AU,Melbourne,APAC,AUD,Australia/Sydney,NGBLAUXX,Tricia Valencia,2020-12-29
+BR000034,Nova Global Bank,Abu Dhabi Branch,Digital,United Arab Emirates,AE,Abu Dhabi,Middle East,AED,Asia/Dubai,NGBLAEXX,Nathan Maldonado,2000-07-07
+BR000035,Nova Global Bank,Montreal Branch,Digital,Canada,CA,Montreal,North America,CAD,America/Toronto,NGBLCAXX,Debra Davidson,2011-12-20
+BR000036,Nova Global Bank,Singapore Branch,Corporate,Singapore,SG,Singapore,APAC,SGD,Asia/Singapore,NGBLSGXX,Jeffrey Chavez,2019-07-03
+BR000037,Nova Global Bank,Manchester Branch,Retail,United Kingdom,GB,Manchester,Europe,GBP,Europe/London,NGBLGBXX,Sherri Baker,2011-10-25
+BR000038,Nova Global Bank,Dubai Branch,Digital,United Arab Emirates,AE,Dubai,Middle East,AED,Asia/Dubai,NGBLAEXX,Cassandra Gaines,2004-10-09
+BR000039,Nova Global Bank,Marseille Branch,Digital,France,FR,Marseille,Europe,EUR,Europe/Paris,NGBLFRXX,Elizabeth Fowler,2008-12-02
+BR000040,Nova Global Bank,Manchester Branch,Retail,United Kingdom,GB,Manchester,Europe,GBP,Europe/London,NGBLGBXX,Brittany Farmer,2024-03-12
+BR000041,Nova Global Bank,Dubai Branch,Digital,United Arab Emirates,AE,Dubai,Middle East,AED,Asia/Dubai,NGBLAEXX,Paula Moreno,2014-07-16
+BR000042,Nova Global Bank,Tokyo Branch,Retail,Japan,JP,Tokyo,APAC,JPY,Asia/Tokyo,NGBLJPXX,Fred Smith,2016-04-13
+BR000043,Nova Global Bank,Paris Branch,Retail,France,FR,Paris,Europe,EUR,Europe/Paris,NGBLFRXX,Sherry Decker,2010-10-21
+BR000044,Nova Global Bank,Zurich Branch,Retail,Switzerland,CH,Zurich,Europe,CHF,Europe/Zurich,NGBLCHXX,Anthony Humphrey,2021-10-19
+BR000045,Nova Global Bank,Montreal Branch,Retail,Canada,CA,Montreal,North America,CAD,America/Toronto,NGBLCAXX,Angelica Tucker,2005-10-04
+BR000046,Nova Global Bank,Kyoto Branch,Retail,Japan,JP,Kyoto,APAC,JPY,Asia/Tokyo,NGBLJPXX,Philip Cannon,2011-11-21
+BR000047,Nova Global Bank,Abu Dhabi Branch,Retail,United Arab Emirates,AE,Abu Dhabi,Middle East,AED,Asia/Dubai,NGBLAEXX,John Pierce,2024-03-10
+BR000048,Nova Global Bank,Frankfurt Branch,Corporate,Germany,DE,Frankfurt,Europe,EUR,Europe/Berlin,NGBLDEXX,Shane Henderson,2017-11-24
+BR000049,Nova Global Bank,Singapore Branch,Digital,Singapore,SG,Singapore,APAC,SGD,Asia/Singapore,NGBLSGXX,Joshua Blair,2020-04-02
+BR000050,Nova Global Bank,Toronto Branch,Retail,Canada,CA,Toronto,North America,CAD,America/Toronto,NGBLCAXX,Eric Carney,2002-11-15
