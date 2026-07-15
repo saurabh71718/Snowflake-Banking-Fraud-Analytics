@@ -238,7 +238,7 @@ The solution provides:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-github-username>/Snowflake-Banking-Fraud-Analytics.git
+git clone https://github.com/saurabh71718/Snowflake-Banking-Fraud-Analytics.git
 ```
 
 ## Navigate to the Project
